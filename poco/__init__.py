@@ -1,5 +1,4 @@
 """Poco package."""
 
 from poco.core import main
-
-__version__ = "0.1.0"
+from poco.version import __version__
