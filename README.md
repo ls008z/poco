@@ -1,3 +1,5 @@
+> **Disclaimer:** This documentation was generated with the assistance of AI and has not been thoroughly proofread yet. Content may contain inaccuracies or inconsistencies.
+
 # Poco
 
 A Python package for power and cover curve simulation with customizable estimators.

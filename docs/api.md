@@ -1,3 +1,5 @@
+> **Disclaimer:** This documentation was generated with the assistance of AI and has not been thoroughly proofread yet. Content may contain inaccuracies or inconsistencies.
+
 # API Reference
 
 This document provides detailed information about the Poco API. As Poco evolves into a simulation engine for power and cover curve analysis, this API reference will be updated accordingly.

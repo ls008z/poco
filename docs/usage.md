@@ -1,3 +1,5 @@
+> **Disclaimer:** This documentation was generated with the assistance of AI and has not been thoroughly proofread yet. Content may contain inaccuracies or inconsistencies.
+
 # Usage Guide
 
 This guide explains how to use Poco in your projects.

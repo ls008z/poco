@@ -1,3 +1,5 @@
+> **Disclaimer:** This documentation was generated with the assistance of AI and has not been thoroughly proofread yet. Content may contain inaccuracies or inconsistencies.
+
 # Changelog
 
 All notable changes to this project will be documented in this file.

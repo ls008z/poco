@@ -1,3 +1,5 @@
+> **Disclaimer:** This documentation was generated with the assistance of AI and has not been thoroughly proofread yet. Content may contain inaccuracies or inconsistencies.
+
 # Poco Documentation
 
 Welcome to the Poco documentation. This guide will help you understand how to use and contribute to the Poco package.

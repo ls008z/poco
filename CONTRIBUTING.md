@@ -1,3 +1,5 @@
+> **Disclaimer:** This documentation was generated with the assistance of AI and has not been thoroughly proofread yet. Content may contain inaccuracies or inconsistencies.
+
 # Contributing to Poco
 
 Thank you for considering contributing to Poco! This document provides guidelines and instructions for contributing.

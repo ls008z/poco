@@ -1,3 +1,5 @@
+> **Disclaimer:** This documentation was generated with the assistance of AI and has not been thoroughly proofread yet. Content may contain inaccuracies or inconsistencies.
+
 # Development Roadmap
 
 This document outlines the planned development path for Poco as it evolves from a simple greeting package to a full-featured simulation engine for power and cover curve analysis.

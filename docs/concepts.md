@@ -1,3 +1,5 @@
+> **Disclaimer:** This documentation was generated with the assistance of AI and has not been thoroughly proofread yet. Content may contain inaccuracies or inconsistencies.
+
 # Key Concepts
 
 This document explains the core concepts behind Poco's simulation engine for power and cover curve analysis.
