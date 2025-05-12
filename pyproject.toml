@@ -17,10 +17,19 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
+dependencies = [
+    "pandas>=2.0.3",
+]
 
 [project.urls]
-"Homepage" = "https://github.com/yourusername/poco"
-"Bug Tracker" = "https://github.com/yourusername/poco/issues"
+"Homepage" = "https://github.com/ls008z/poco"
+"Bug Tracker" = "https://github.com/ls008z/poco/issues"
 
 [project.scripts]
 poco = "poco:main"
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
+    "pip>=25.0.1",
+]

@@ -7,7 +7,7 @@ A simple Python package.
 You can install the package directly from GitHub:
 
 ```bash
-pip install git+https://github.com/yourusername/poco.git
+pip install git+https://github.com/ls008z/poco.git
 ```
 
 ## Usage
